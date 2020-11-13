@@ -3,7 +3,7 @@
 # Cleber Goulart Nandi
 
 ## Olá pessoal 👋
-###Meu GitHub está passando por reestruturação para melhorar meu catálogo.
+### Meu GitHub está passando por reestruturação para melhorar meu catálogo.
 
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer atualmente especializado em Python. :computer:
