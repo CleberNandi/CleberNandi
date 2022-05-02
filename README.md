@@ -8,12 +8,9 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer atualmente especializado em Python. :computer:
 
- Atualmente trabalho na **DP6**
- <br/> 🧡 &nbsp; Data Engeneer focado em martech. 
- <br/> 🧡 &nbsp; Realizo automações com Python utilizando a ferramenta "Cloud Function" na plataforma GCP.
- <br/> 🧡 &nbsp; Realizo automações com Javascript utilizando a ferramenta "Appscript" na plataforma GCP e Google Sheets.
- <br/> 🧡 &nbsp; Realizo análises em BigData utilizando a ferramenta "BigQuery" na plataforma CGP.
- <br/> 🧡 &nbsp; Busco aperfeiçoar conhecimentos em GCP (Google Cloud Platform).
+ Atualmente trabalho na **ília culture**
+ <br/> 🧡 &nbsp; Backend Developer Python no cliente BrasilPrev. 
+ <br/> 🧡 &nbsp; Realizo automações com Python utilizando a ferrament aAWS.
  <br/> 🧡 &nbsp; Busco aperfeiçoar conhecimentos em AWS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados em plataformas como Netflix e Amazon Prime Vídeo. 
  <br/> Entre em contato comigo: 
